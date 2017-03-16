@@ -129,6 +129,7 @@ Tools
 
 -	[Jenkins](https://jenkins-ci.org/)
 -	[Buildkite](https://buildkite.com/)
+-	[Bamboo](https://www.atlassian.com/software/bamboo/)
 -	[Drone](https://github.com/drone)
 -	[Shippable](https://app.shippable.com/)
 -	[Travis](https://travis-ci.org/)
