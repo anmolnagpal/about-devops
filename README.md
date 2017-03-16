@@ -123,6 +123,7 @@ Tools
 ### Infrastructure as a code
 
 -	[Terraform](https://www.terraform.io/)
+-   [AWS CloudFormation](https://aws.amazon.com/cloudformation/)
 
 
 ### Continuous Integration & Deployment
