@@ -119,6 +119,12 @@ Tools
 -	[Puppet](https://puppetlabs.com/)
 -	[SaltStack](https://saltstack.com/)
 
+
+### Infrastructure as a code
+
+-	[Terraform](https://www.terraform.io/)
+
+
 ### Continuous Integration & Deployment
 
 -	[Jenkins](https://jenkins-ci.org/)
