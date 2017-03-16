@@ -127,7 +127,7 @@ Tools
 -	[Shippable](https://app.shippable.com/)
 -	[Travis](https://travis-ci.org/)
 -	[Gitlab CI](https://about.gitlab.com/)
--	[gocd](https://www.gocd.io/)
+-	[Gocd](https://www.gocd.io/)
 
 Misc
 ----
