@@ -145,7 +145,9 @@ Tools
 -   [Kibana](https://www.elastic.co/products/kibana)
 -   [AppDynamics](https://www.appdynamics.com/)
 -   [DataDog](https://datadoghq.com/)
-
+-   [Nagios]
+-   [Icinga]
+-   [Monit]
 Misc
 ----
 
