@@ -110,7 +110,7 @@ Tools
 -	[Mercurial](https://www.mercurial-scm.org/)
 -	[Github](https://github.com/) - Git repo hosting as a Service
 -	[Gitlab](https://about.gitlab.com/) - Self-hosted Git repos
--	[Bitbucket](https://www.atlassian.com/software/bitbucket/) - Self-hosted Git repos
+-	[Bitbucket](https://www.atlassian.com/software/bitbucket/) - Git repo hosting as a Service
 
 ### Configuration Management
 
