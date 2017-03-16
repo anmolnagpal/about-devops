@@ -141,8 +141,10 @@ Tools
 
 ### Monitorning
 
--	[NewRelic](https://www.terraform.io/)
--   [](https://aws.amazon.com/cloudformation/)
+-	[NewRelic](https://newrelic.com/)
+-   [Kibana](https://www.elastic.co/products/kibana)
+-   [AppDynamics](https://www.appdynamics.com/)
+-   [DataDog](https://datadoghq.com/)
 
 Misc
 ----
