@@ -139,7 +139,7 @@ Tools
 -	[GoCD](https://www.gocd.io/)
 -   [CircleCI](https://circleci.com/) 
 
-### Monitorning
+### Infrastructure Monitoring
 
 -	[NewRelic](https://newrelic.com/)
 -   [Kibana](https://www.elastic.co/products/kibana)
