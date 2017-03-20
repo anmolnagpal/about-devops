@@ -137,7 +137,7 @@ Tools
 -	[Teamcity](https://www.jetbrains.com/teamcity/)
 -	[Gitlab CI](https://about.gitlab.com/)
 -	[GoCD](https://www.gocd.io/)
--   [CircleCI](https://circleci.com/) 
+- [CircleCI](https://circleci.com/) 
 
 ### Infrastructure Monitoring
 
@@ -145,9 +145,9 @@ Tools
 -   [Kibana](https://www.elastic.co/products/kibana)
 -   [AppDynamics](https://www.appdynamics.com/)
 -   [DataDog](https://datadoghq.com/)
--   [Nagios]
--   [Icinga]
--   [Monit]
+-   [Nagios]()
+-   [Icinga]()
+-   [Monit](https://mmonit.com/monit/)
 
 Misc
 ----
